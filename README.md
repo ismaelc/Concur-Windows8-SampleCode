@@ -1,6 +1,8 @@
 <img src="https://jfqcza.bn1.livefilestore.com/y2paqP_3uagi8J3WlP4-pNt4kJoOzRKmuohSQUsrjaegIaoNbNZJ7EXLEflIO6XYAOKM6scpKxbtXPg10RL5OO3A9bc6m-zERVRHUYB1OEGq8s/Concur_Logo_VT_Color_500px.png?psid=1" width="70px" />&nbsp;&nbsp;&nbsp;&nbsp;Concur Windows 8 Sample Code
 =========
 
+<img src="https://jfqcza.bn1302.livefilestore.com/y2pXxOBnjSlLhgy_BUTcavUe3YpoqUSNfouuvJyv1RNY25Xtt9vXWI_XtsoKOfZYQkyjVkp-yczXMlWxuWJ5E8WBz_S4Mz6XPFLbo6I2nTPD58/Capture.PNG?psid=1" width="600px" />
+
 This Windows 8 (C#/XAML) code demonstrates:
 
   - Getting an access token for Concur using OAuth 2.0
