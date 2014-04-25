@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CHRIS-ASUST100</Machine>
+    <WindowsUser>Chris</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a6437c41-75cd-42de-94bb-7061f3d7ef89</PackageIdentityName>
+    <RegisteredManifestChecksum>5C16E9685B4E97DB8035124BAF9F1DD7231D026A2159DEF471AF14EBCB10A882</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a6437c41-75cd-42de-94bb-7061f3d7ef89_1.1.0.0_neutral__s4thkhj8twfgt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a6437c41-75cd-42de-94bb-7061f3d7ef89_s4thkhj8twfgt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a6437c41-75cd-42de-94bb-7061f3d7ef89</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Karlkim</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Chris\Desktop\!!!\Code\Concur\C#\OAuth2Concur\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-25T17:56:40.980</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\!!!\Code\Concur\C#\OAuth2Concur\bin\Debug\OAuth2Concur.exe">
+      <PackagePath>OAuth2Concur.exe</PackagePath>
+      <Modified>2014-04-25T17:56:40.454</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\!!!\Code\Concur\C#\OAuth2Concur\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-19T23:58:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\!!!\Code\Concur\C#\OAuth2Concur\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-19T23:58:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\!!!\Code\Concur\C#\OAuth2Concur\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-19T23:58:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\!!!\Code\Concur\C#\OAuth2Concur\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-19T23:58:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\!!!\Code\Concur\C#\OAuth2Concur\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-04-25T17:43:49.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\!!!\Code\Concur\C#\OAuth2Concur\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2014-04-25T17:43:49.633</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\!!!\Code\Concur\C#\OAuth2Concur\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-04-25T17:43:49.643</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\!!!\Code\Concur\C#\OAuth2Concur\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-04-25T17:43:51.279</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
